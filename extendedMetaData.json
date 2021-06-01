@@ -1,0 +1,39 @@
+{
+    "how-to-implement": "in meta.json define *extended* with url to this json https://raw.github/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+        "location": "Singapore",
+        "social": {
+            "twitter_handle": "BlockchainLens",
+            "telegram_handle": "BCLens",
+            "facebook_handle": "WISHPoolByBCLens",
+            "youtube_handle": "Blockchain Lens [WISH]",
+            "twitch_handle": "",
+            "discord_handle": "BCLens[WISH]",
+            "github_handle": "BCLens"
+        },
+        "company": {
+            "name": "Blockchain Lens",
+            "addr": "Sunny",
+            "city": "Singapore",
+            "country": "Singapore",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "IT Professional with more than 25 years experience in systems administration and project management",
+            "server": "DC Hosted, 24/7 power, cooling, physical security, hi-speed network",
+            "company": "Located in secure Singapore with reliable power and high speed networks"
+        }
+    },
+    "my-pool-ids": {
+        "0": "4dbdfb68de96a563719f7df2b3cf7c98fb547a3e7edca2a547d35852"
+    },
+    "when-satured-then-recommend": {
+        "0": "4dbdfb68de96a563719f7df2b3cf7c98fb547a3e7edca2a547d35852"
+    },
+    "telegram-admin-handle": {
+        "0": "BCLens"
+    }
+}
