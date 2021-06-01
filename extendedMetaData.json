@@ -1,8 +1,8 @@
 {
-    "how-to-implement": "in meta.json define *extended* with url to this json https://raw.github/example-meta.json",
+    "how-to-implement": "in meta.json define *extended* to this json https://raw.github/ex-meta.json",
     "info": {
-        "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
-        "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/bclens/mainnet/main/WISHLogo64x64px.png",
+        "url_png_logo": "https://raw.githubusercontent.com/bclens/mainnet/main/WISHLogoFull.png",
         "location": "Singapore",
         "social": {
             "twitter_handle": "BlockchainLens",
@@ -22,7 +22,7 @@
             "vat_id": ""
         },
         "about": {
-            "me": "IT Professional with more than 25 years experience in systems administration and project management",
+            "me": "IT Professional with more than 25 years experience in systems admin and project management",
             "server": "DC Hosted, 24/7 power, cooling, physical security, hi-speed network",
             "company": "Located in secure Singapore with reliable power and high speed networks"
         }
