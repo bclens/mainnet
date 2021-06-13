@@ -9,7 +9,6 @@
             "telegram_handle": "BCLens",
             "facebook_handle": "WISHPoolByBCLens",
             "youtube_handle": "Blockchain Lens [WISH]",
-            "twitch_handle": "",
             "discord_handle": "BCLens[WISH]",
             "github_handle": "BCLens"
         },
@@ -17,9 +16,7 @@
             "name": "Blockchain Lens",
             "addr": "Member of Mission Driven Pools, F2LB Alliance and Single Pool Alliance",
             "city": "Creator of Cardano SPOT Check.  Hailing from The Garden City",
-            "country": "Singapore",
-            "company_id": "",
-            "vat_id": ""
+            "country": "Singapore"
         },
         "about": {
             "me": "We pledge 10% of our own profit to educational charities while you earn 100% of your usual rewards. Managed by IT Professionals with more than 25 years experience in systems admin and project management",
